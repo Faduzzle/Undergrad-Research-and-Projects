@@ -13,9 +13,9 @@ Here is a collection of research projects I've attempted in my undergrad
   - Interested in practicing ML techniques to forecast supply and demand
 
 
-### Salifort Motors HR Problem
+### Improving Workforce Excellence at Salifort Motors
   - HR has a problem identifying why their employees are dissastistfied.
-  - I use Logistic Regression and XGBoost to try to predict if an employee is unsatisfied.
+  - Developed predictive models for HR retention at Salifort Motors, achieving 99% test accuracy and 0.99 AUC using XGBoost—outperforming logistic regression (82% accuracy)—to drive data-informed HR decisions and optimize talent retention
 
 ### Health and Diabetes EDA
   - A short ipynb showcasing EDA and KNN for predicting diabetes
