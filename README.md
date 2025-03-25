@@ -15,3 +15,6 @@ Here is a collection of research projects I've attempted in my undergrad
 
 ### Google Data Analytics Capstone
   - Capstone project provided by the Coursera course
+
+### Health and Diabetes EDA
+  - A short ipynb showcasing EDA and KNN for predicting diabetes
