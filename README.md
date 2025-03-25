@@ -13,8 +13,9 @@ Here is a collection of research projects I've attempted in my undergrad
   - Interested in practicing ML techniques to forecast supply and demand
 
 
-### Google Data Analytics Capstone
-  - Capstone project provided by the Coursera course
+### Salifort Motors HR Problem
+  - HR has a problem identifying why their employees are dissastistfied.
+  - I use Logistic Regression and XGBoost to try to predict if an employee is unsatisfied.
 
 ### Health and Diabetes EDA
   - A short ipynb showcasing EDA and KNN for predicting diabetes
